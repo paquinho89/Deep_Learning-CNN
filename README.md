@@ -1,4 +1,4 @@
-Guitar or not Guitar? (Convolutional Neural Network - Deep Learning)
+# Guitar or not Guitar? (Convolutional Neural Network - Deep Learning)
 Jan 2019 – Feb 2019
 
 Project descriptionThe purpose of this project is to go into what deep learning is and create a Convultional Neural Networks in order to create a model and recognize if a Guitar is present (or not) in a picture.
